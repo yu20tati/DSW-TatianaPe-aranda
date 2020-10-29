@@ -94,13 +94,21 @@ ul,ol{
 aside{
     position: absolute;
     left:800px;
-    top:90px;
+    top:350px;
 }
 .logoU{
     position: absolute;
     left:800px;
     top:90px;
 }
+<<<<<<< HEAD
+.logoU{
+    position: absolute;
+    left:800px;
+    top:90px;
+}
+=======
+>>>>>>> 5b80fe817e3e9bf53f5415d5e29513c9caa5299c
 
 .conter{
     width: 500px;
