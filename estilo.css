@@ -101,26 +101,22 @@ aside{
     left:800px;
     top:90px;
 }
-<<<<<<< HEAD
 .logoU{
     position: absolute;
     left:800px;
     top:90px;
 }
-=======
->>>>>>> 5b80fe817e3e9bf53f5415d5e29513c9caa5299c
 
 .conter{
     width: 500px;
-    height: 200px;
+    height: 900px;
     background: #fff;
     padding: 10px solid #2c3e50;
     margin: 20px;
-    float: left;
-    color:#000;
     font-family: 'Times New Roman', Times, serif;
     font-size: 15px;
     font-weight: normal;
+
 }
 .logoh{
    height: auto;
