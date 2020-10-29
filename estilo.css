@@ -101,11 +101,7 @@ aside{
     left:800px;
     top:90px;
 }
-.logoU{
-    position: absolute;
-    left:800px;
-    top:90px;
-}
+
 
 .conter{
     width: 500px;
@@ -177,6 +173,12 @@ font-size: 22px;
  display: flex;
  justify-content: space-between;
  padding: 20px;
+}
+.nov h2{
+   
+    text-align: center;
+    left:700px;
+    top:130px;
 }
 
 
