@@ -78,6 +78,19 @@ ul,ol{
     font-size: 15px;
     font-weight: normal;
 }
+.cajas{
+    left:800px;
+    top: 600;
+    width: 500px;
+    height: 500px;
+    background: #fff;
+    padding: 10px solid #2c3e50;
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: normal;
+}
+
 .foto{
     display: flex;
     width: 10;
@@ -93,8 +106,10 @@ ul,ol{
 }
 aside{
     position: absolute;
-    left:800px;
-    top:350px;
+    left:700px;
+    top:250px;
+    width: 20px;
+    height: 20px;
 }
 .logoU{
     position: absolute;
@@ -102,7 +117,10 @@ aside{
     top:90px;
 }
 
-
+.etiqcier{
+    width: 50;
+    height: 500;
+}
 .conter{
     width: 500px;
     height: 500px;
@@ -173,12 +191,7 @@ font-size: 22px;
  justify-content: space-between;
  padding: 20px;
 }
-.nov h2{
-   
-    text-align: center;
-    left:700px;
-    top:130px;
-}
+
 
 
 
