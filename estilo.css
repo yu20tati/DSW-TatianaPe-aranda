@@ -119,7 +119,6 @@ aside{
 
 .etiqcier{
     width: 50;
-    height: 500;
 }
 .conter{
     width: 500px;
@@ -190,6 +189,17 @@ font-size: 22px;
  display: flex;
  justify-content: space-between;
  padding: 20px;
+}
+.buscar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 10%;
+    top:16%;
+    background: #f0b429;
+    padding: 10px;
+    height: 18.2px;
 }
 
 
