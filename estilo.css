@@ -201,7 +201,24 @@ font-size: 22px;
     padding: 10px;
     height: 18.2px;
 }
+.cajai{
+    width: 500px;
+    height: 500px;
+    background: #fff;
+    padding: 10px solid #2c3e50;
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: normal;
+    
+}
+.pdf{
+   float: left;
+    height: 200px;
+    align-items: center;
+    margin: auto;
 
+}
 
 
 
